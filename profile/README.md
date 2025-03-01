@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://github.com/Cornell-Genomics-Facility/.github/blob/main/profile/magnetic_bead_3_small.png"/>
+</div>
+
 <p>
 The Genomics Facility at Cornell was established by the Provost’s Genome Biology Task Force and encompasses the Genomics Innovation Hub (GIH), the Transcriptional Regulation & Expression Facility (TREx), and the Genomics Sequencing Facility, all under the directorship of Dr. Jen Grenier.
 </p>
